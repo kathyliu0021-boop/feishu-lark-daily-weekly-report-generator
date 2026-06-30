@@ -1,0 +1,17 @@
+{
+  "lark": {
+    "my_open_id": "ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "ai": {
+    "api_key": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "max_tokens": 1500,
+    "max_tokens_weekly": 4000,
+    "max_tokens_longquery": 8000
+  },
+  "features": {
+    "enable_docs": false,
+    "auto_create_tasks": true
+  }
+}
